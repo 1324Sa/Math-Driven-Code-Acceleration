@@ -1,0 +1,19 @@
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+
+# Node.js / Next.js / React
+node_modules/
+.next/
+out/
+build/
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
